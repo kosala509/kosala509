@@ -20,9 +20,9 @@
 
 - 👩‍💻 I’m studying at **University of Moratuwa.**
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/kosala509?tab=repositories](https://github.com/kosala509?tab=repositories">HERE!</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/kosala509?tab=repositories">HERE!</a>
 
-- 📝 I regularly write articles on <a href="https://medium.com/@kosalagayani](https://medium.com/@kosalagayani">medium.com</a>
+- 📝 I regularly write articles on <a href="https://medium.com/@kosalagayani">medium.com</a>
 
 - 💬 Ask me about **Java, C, React, and Laravel.**
 
@@ -31,7 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kosala-gayani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kosala-gayani" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21536757/kosala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21536757/kosala" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21536757/kosala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21536757/kosala" height="30" width="40" /></a>
 <a href="https://medium.com/@kosalagayani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kosalagayani" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kosala5926?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kosala5926?hr_r=1" height="30" width="40" /></a>
 </p>
