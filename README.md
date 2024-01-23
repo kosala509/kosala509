@@ -9,7 +9,7 @@
 
 </div>
 
-<animated-image data-catalyst="" style="float: right; width: 400px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/92366f0dd7da9e6314a00fe77b48706c3aaa4916de7f82250aecaf3194a696d9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f72716439523379614479313661386b4443312f67697068792e676966" data-target="animated-image.originalLink"><img align="right" height="400" alt="Coding" src="https://media.tenor.com/gHzcR8O6W0kAAAAi/summerinmara-typing.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<animated-image data-catalyst="" style="float: right; width: 400px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/92366f0dd7da9e6314a00fe77b48706c3aaa4916de7f82250aecaf3194a696d9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f72716439523379614479313661386b4443312f67697068792e676966" data-target="animated-image.originalLink"><img align="right" height="350" alt="Coding" src="https://media.tenor.com/gHzcR8O6W0kAAAAi/summerinmara-typing.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/92366f0dd7da9e6314a00fe77b48706c3aaa4916de7f82250aecaf3194a696d9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f72716439523379614479313661386b4443312f67697068792e676966" target="_blank">
 </animated-image>
