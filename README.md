@@ -24,7 +24,7 @@
 
 - 🌱 I’m reading for **IT & Management Degree.**
 
-- 💬 Ask me about **Java, C, React, and Laravel.**
+- 💬 Ask me about **Java, C, React, Spring Boot, and Laravel.**
 
 - 👩‍💻 All of my projects are available at <a href="https://github.com/kosala509?tab=repositories">HERE!</a>
 
